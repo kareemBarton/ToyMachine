@@ -1,0 +1,7 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}@T Kareem Barton${licensePrefix}Each line should be prefixed with ${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
