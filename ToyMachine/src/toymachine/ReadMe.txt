@@ -8,6 +8,6 @@ licence CC 2019
 
 Project Update Time-line
 
-New porject update every 1(one) week, starting 21/09/2019, finishing with 
+New project update every 1(one) week, starting 21/09/2019, finishing with 
 ToyMachine v1.0.0. Permission to use previous releases is withdraw once they
 are unsupported. Support for releases is withdrawn upon next release.
